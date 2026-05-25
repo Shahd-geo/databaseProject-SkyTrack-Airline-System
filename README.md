@@ -33,8 +33,7 @@ The project demonstrates important database concepts such as:
 
 # Mapping Diagram
 
-![Mapping](Mapping-SkyTrackAirlineSystem.jpg)
-
+![Mapping](02-Mapping)
 ---
 
 # Main Entities
