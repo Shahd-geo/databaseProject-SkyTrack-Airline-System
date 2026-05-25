@@ -27,7 +27,7 @@ The project demonstrates important database concepts such as:
 
 # ERD Diagram
 
-![ERD](SkyTrack-Airline-System%20ERD.jpg)
+![ERD](01-ERD)
 
 ---
 
