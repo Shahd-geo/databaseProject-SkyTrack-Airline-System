@@ -34,6 +34,7 @@ The project demonstrates important database concepts such as:
 # Mapping Diagram
 
 ![Mapping](02-Mapping)
+
 ---
 
 # Main Entities
