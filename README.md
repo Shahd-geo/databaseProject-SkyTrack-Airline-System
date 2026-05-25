@@ -155,14 +155,6 @@ This query demonstrates advanced SQL concepts such as:
 
 ---
 
-# SQL Query Example
-
-Example of aggregate functions and query execution in SQL Server:
-
-![SQL Query](Screenshot%202026-05-24%20165709.png)
-
----
-
 # Additional File
 
 * Full-Project-Work.sql contains the complete SQL development process step-by-step with comments.
