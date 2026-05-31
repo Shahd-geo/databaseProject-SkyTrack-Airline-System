@@ -27,8 +27,7 @@ The project demonstrates important database concepts such as:
 
 # ERD Diagram
 
-![ERD](01-ERD)
-
+![ERD](01-ERD.pdf)
 ---
 
 # Mapping Diagram
